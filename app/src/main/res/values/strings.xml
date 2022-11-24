@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewQALR APP</string>
+    <string name="message">My Message</string>
+    <string name="notification">Notificaton</string>
+    <string name="calendar">Calendar</string>
+    <string name="study">Study Material</string>
+    <string name="share">Share this app</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">My Account</string>
+    <string name="openDrawer">Open navigation drawer</string>
+    <string name="closeDrawer">Close navigation drawer</string>
+</resources>

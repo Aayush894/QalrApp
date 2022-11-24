@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@color/blue"
+    android:layout_height="176dp"
+    android:gravity="bottom"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="32dp"
+    android:paddingBottom="32dp"
+    android:orientation="vertical"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/circle"
+        android:gravity="center"
+        android:text="A"
+        android:layout_gravity="center"
+        android:id="@+id/nav_drawer_text_img"
+        android:textSize="32sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:id="@+id/nav_drawer_name"
+        android:text="Name Last Name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        />
+    </LinearLayout>
+
+</LinearLayout>

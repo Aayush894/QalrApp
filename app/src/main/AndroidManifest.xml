@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.newqalrapp">
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation|screenSize"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NewQALRAPP">
+        <activity
+            android:name=".StartTestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_week3"
+            android:exported="false" />
+        <activity
+            android:name=".Coding_Decoding_Question"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_week7"
+            android:exported="false" />
+        <activity
+            android:name=".Profit_Loss_Practice_Sheet"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_week6"
+            android:exported="false" />
+        <activity
+            android:name=".Blood_Relation_Question"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_week5"
+            android:exported="false" />
+        <activity
+            android:name=".Question_percentage"
+            android:exported="false" />
+        <activity
+            android:name=".Percentage_Cheat_Sheet"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_week4"
+            android:exported="false" />
+        <activity
+            android:name=".Number_System_Remainders_05"
+            android:exported="false" />
+        <activity
+            android:name=".Work_Sheet_Cyclicity_06"
+            android:exported="false" />
+        <activity
+            android:name=".Work_Sheet_Number_System_01"
+            android:exported="false" />
+        <activity
+            android:name=".Number_System_03_Unit_Digit"
+            android:exported="false" />
+        <activity
+            android:name=".Number_System_02_Divisibility"
+            android:exported="false" />
+        <activity
+            android:name=".Number_System_01_Classification"
+            android:exported="false" />
+        <activity
+            android:name=".Number_System"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_week_2"
+            android:exported="false" />
+        <activity
+            android:name=".WorkSheetSpeedMathsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SpeedMathsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

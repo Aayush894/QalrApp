@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998925886719",
+    "project_id": "qalrapp",
+    "storage_bucket": "qalrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998925886719:android:da99cf8c038236557958ca",
+        "android_client_info": {
+          "package_name": "com.example.newqalrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998925886719-sbk4jg8a26eks24470cul0tjlt23f2n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newqalrapp",
+            "certificate_hash": "14c157368861ba71b17d31d770bfc139efc6c28c"
+          }
+        },
+        {
+          "client_id": "998925886719-v1t3hke38nr7sv6c896p3arh60jrp6l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7uPlbitiJW1Jfdxb2d3XyprgO9SP8jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998925886719-v1t3hke38nr7sv6c896p3arh60jrp6l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
